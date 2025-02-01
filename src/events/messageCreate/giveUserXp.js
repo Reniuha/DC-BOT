@@ -10,7 +10,7 @@ function getRandomXp(min, max) {
 }
 
 /**
- *
+ * 
  * @param {Client} client
  * @param {Message} message
  */
